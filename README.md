@@ -32,8 +32,8 @@ src/main/resources/ 为资源文件
 bean 目录存放的是要用到的实体类  
 controller 目录存放的是控制层类  
 
-src/main/resources/template/ 为静态页面的模板文件，这里用了thymeleaf模板渲染引擎框架（据说Spring Boot推荐）
-src/main/resources/application.properties 为Spring Boot的配置文件
+src/main/resources/template/ 为静态页面的模板文件，这里用了thymeleaf模板渲染引擎框架（据说Spring Boot推荐）  
+src/main/resources/application.properties 为Spring Boot的配置文件  
 ![p5](https://img.tianle.me/image/20180502/p5.png)  
 
 #### maven配置  

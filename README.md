@@ -174,6 +174,10 @@ Spring Boot里面嵌入了Tomcat，直接运行
 java -jar xxx.jar
 ```
 ![p6](https://img.tianle.me/image/20180502/p6.png)  
+浏览器输入: http://localhost:8080  
+账号：qinya  
+密码：tianle  
+
 
 ### 参考来源  
 [Spring Boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)  

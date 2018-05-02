@@ -182,3 +182,4 @@ java -jar xxx.jar
 ### 参考来源  
 [Spring Boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)  
 [基于Bootstrap的简洁登录界面设计效果](http://www.htmleaf.com/css3/ui-design/201610114094.html)  
+[Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)  
